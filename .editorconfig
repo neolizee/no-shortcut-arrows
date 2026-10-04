@@ -1,0 +1,21 @@
+root = true
+
+[*.cmd]
+charset = utf-8
+end_of_line = crlf
+insert_final_newline = true
+
+[*.{ps1,psm1}]
+charset = utf-8
+end_of_line = crlf
+insert_final_newline = true
+
+[*.md]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+
+[*.{yml,yaml,json}]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true

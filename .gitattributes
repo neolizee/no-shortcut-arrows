@@ -1,0 +1,16 @@
+*.cmd text eol=crlf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+*.md text eol=lf
+.editorconfig text eol=lf
+.gitattributes text eol=lf
+LICENSE text eol=lf
+
+*.ico binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.exe binary
+*.zip binary
